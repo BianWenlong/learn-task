@@ -23,7 +23,7 @@
 ### 缓存Redis
 - [ ]redis常用的数据结构
 - [ ]redis数据结构如何实现的
--[]构建redis集群
+- []构建redis集群
 ### Mysql
 - [ ]常用的SQL
 - [ ]索引优化
