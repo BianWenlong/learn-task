@@ -1,5 +1,5 @@
-#TODO-List
-##Git使用
+# TODO-List
+## Git使用
 - [ ]git常用命令
 - [ ]git分支策略
 - [ ]git冲突解决
